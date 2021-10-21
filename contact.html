@@ -16,15 +16,25 @@
                 <ul>
                     <li><a href="index.html">Surviving the Cold Seasons Blogs</a></li>
                     <li><a href="about.html">About the Author</a></li>
-                    <li><a href="contact.html"Contact Us></a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
                 </ul>
             </nav>
         </header>
 
         <!-- Page's Main Content -->
         <section id="contact form">
-            <form action="Contact Us!">
-                <input type="text">
+            <form>
+                <label for="name">Enter your name:</label>
+                <input type="text" name="name" id="name">
+                <label for="email">Enter your email:</label>
+                <input type="email" name="email" id="email">
+                <label for="contact">What is your contact reason?</label>
+                <select name="contact-reason" id="contact-reason">
+                    <option value="">--Please choose an option--</option>
+                    <option value="Saying Hi"></option>
+                    <option value="Looking for a Contractor"></option>
+                    <option value="Interested in an Interview"></option>
+                </select>
             </form>
             <button>Submit</button>
 
