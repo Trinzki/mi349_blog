@@ -20,12 +20,9 @@ h1{
     margin: 0;
 }
 
-article{
-    border-bottom: 8px #ccc;
-}   
 
 table{
-    padding: 40px;
+    padding: 30px;
     line-height: 1.5em;
 }
 
