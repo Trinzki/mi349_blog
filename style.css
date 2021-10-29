@@ -40,8 +40,11 @@ h3{
 
 h4{
     font-size: 1.25em;
-    line-height: 1em;
+    line-height: 0.5em;
 }
 form{
+    line-height: 1em;
+}
+div{
     line-height: 1em;
 }
