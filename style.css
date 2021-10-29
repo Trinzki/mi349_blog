@@ -24,6 +24,10 @@ article{
     border-bottom: 1px #ccc;
 }
 
+table{
+    padding: 40px;
+}
+
 p{
     line-height: 1.4em;
 }
