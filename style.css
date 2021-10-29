@@ -11,13 +11,17 @@ body{
     background: #fff;
 }
 
+header{
+    border-bottom: 8px dotted #ccc;
+}
+
 h1{
     font-size: 3em;
     margin: 0;
 }
 
 article{
-    border-bottom: 8px #ccc;
+    border-bottom: 8px solid #ccc;
 }   
 
 table{
