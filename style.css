@@ -11,8 +11,8 @@ body{
     background: #fff;
 }
 
-main{
-    border-top: 1px #ccc;
+header{
+    border-bottom: 10px dotted #ccc;
 }
 
 h1{
@@ -37,5 +37,5 @@ h3{
 }
 
 h4{
-    
+    font-size: 1em;
 }
