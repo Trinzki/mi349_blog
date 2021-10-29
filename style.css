@@ -12,7 +12,7 @@ body{
 }
 
 header{
-    border-bottom: 10px dotted #ccc;
+    border-bottom: 3px #ccc;
 }
 
 h1{
@@ -21,8 +21,9 @@ h1{
 }
 
 article{
-    border-bottom: 1px #ccc;
-}
+    border-bottom: 8px dotted #ccc;
+
+}   
 
 table{
     padding: 40px;
