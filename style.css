@@ -30,14 +30,13 @@ h1{
     margin: 0;
 }
 
+div{
+    line-height: 2em;
+}
 
 table{
     padding: 25px;
     line-height: 1.5em;
-}
-
-p{
-    line-height: 1.8em;
 }
 
 h2, h3{
@@ -53,6 +52,6 @@ form{
     line-height: 1em;
 }
 
-div{
-    line-height: 2em;
+p{
+    line-height: 1.8em;
 }
