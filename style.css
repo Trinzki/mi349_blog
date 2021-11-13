@@ -11,6 +11,14 @@ body{
     background: #fff;
 }
 
+header{
+    border-bottom: 8px dotted #ccc;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background: white;
+}
+
 figure {
     background: #ebfaff;
     float: right;
@@ -19,12 +27,8 @@ figure {
     margin-top: 0px;
 }
 
-header{
-    border-bottom: 8px dotted #ccc;
-    position: sticky;
-    top: 0;
-    padding: 10px;
-    background: white;
+.fall {
+    display: flex;
 }
 
 h1{
