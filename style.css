@@ -11,9 +11,10 @@ body{
     background: #fff;
 }
 
-.winter {
+figure {
     background: #ebfaff;
     float: right;
+    text-align: center;
     margin-left: 20px;
 }
 
