@@ -52,6 +52,6 @@ form{
     line-height: 1em;
 }
 
-p{
+p:nth-of-type(2){
     line-height: 1.8em;
 }
