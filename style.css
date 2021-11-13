@@ -14,14 +14,14 @@ body{
 .winter {
     background: #ebfaff;
     float: right;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 header{
     border-bottom: 8px dotted #ccc;
     position: sticky;
     top: 0;
-    margin-top: 5px;
+    padding: 10px;
     background: white;
 }
 
