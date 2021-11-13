@@ -11,6 +11,12 @@ body{
     background: #fff;
 }
 
+.winter {
+    background: #ebfaff;
+    float: right;
+    margin-left: 10px;
+}
+
 header{
     border-bottom: 8px dotted #ccc;
     position: sticky;
@@ -42,9 +48,11 @@ h4{
     font-size: 1.25em;
     line-height: 0.5em;
 }
+
 form{
     line-height: 1em;
 }
+
 div{
     line-height: 2em;
 }
