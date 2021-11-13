@@ -32,11 +32,11 @@ figure {
 }
 
 aside{
-    flex: 1
+    flex: 2;
 }
 
 table{
-    flex: 2;
+    flex: 3;
 }
 
 h1{
