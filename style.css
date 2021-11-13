@@ -31,6 +31,14 @@ figure {
     display: flex;
 }
 
+aside{
+    flex: 1
+}
+
+table{
+    flex: 1;
+}
+
 h1{
     font-size: 3em;
     margin: 0;
