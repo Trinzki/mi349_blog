@@ -36,7 +36,8 @@ aside{
 }
 
 table{
-    flex: 1;
+    flex: 2;
+    padding: 20px;
 }
 
 h1{
