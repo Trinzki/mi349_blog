@@ -71,3 +71,9 @@ h4{
 form{
     line-height: 1em;
 }
+
+@media (max-width: 400px){
+    .fall{
+        display: inline-block;
+    }
+}
